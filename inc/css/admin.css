@@ -1,0 +1,28 @@
+.plugins-php #wpwrap {
+    background-color: salmon;
+}
+.hide-if-no-customize {
+	display: none;
+}
+
+.dashicons-yes, .done-function {
+	color: green;
+}
+
+.need-function, .sam {
+	color: salmon;
+}
+#content-score.misc-pub-section.yoast-seo-score.content-score,
+#keyword-score.misc-pub-section.yoast-seo-score.keyword-score {
+	display: none;
+}
+
+/*
+#user-62 {
+	background-color: #fa6;
+} */
+/* wp-list-table widefat fixed striped */
+.users #the-list tr .suspend {
+	background-color: salmon;
+}
+/*exouratuib,css*/
